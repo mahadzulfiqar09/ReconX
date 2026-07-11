@@ -1,3 +1,5 @@
+📘 Full project report: [docs/ReconX_Project_Report.docx](docs/ReconX_Project_Report.docx)
+
 # 🛰️ ReconX — Custom Reconnaissance Tool
 
 <p align="left">
