@@ -1,5 +1,3 @@
-📘 Full project report: [docs/ReconX_Project_Report.docx](docs/ReconX_Project_Report.docx)
-
 # 🛰️ ReconX — Custom Reconnaissance Tool
 
 <p align="left">
@@ -415,3 +413,16 @@ The authors and contributors accept no liability for misuse or damage caused by 
 ## 📜 License
 
 This project is released under the [MIT License](LICENSE) — feel free to use, modify, and distribute with attribution.
+
+
+---
+
+### 🔗 Part of a 3-Tool Security Toolkit
+
+This project is one piece of a broader offensive/defensive security pipeline:
+
+- 🛰️ **[ReconX](https://github.com/mahadzulfiqar09/ReconX)** — Reconnaissance & information gathering
+- 🛡️ **[WebGuard](https://github.com/mahadzulfiqar09/WebGuard)** — Web application vulnerability scanning
+- 🎣 **[PhishGuard](https://github.com/mahadzulfiqar09/PhishGuard)** — Hybrid phishing URL detection
+
+Built and maintained by **[Mahad Zulfiqar](https://github.com/mahadzulfiqar09)**.
